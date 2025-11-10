@@ -1,0 +1,65 @@
+{
+  "node": {
+    "00607fca91f1152e9c0550188444ae071f94340028": {
+      "workers": {
+        "app/students/page": {
+          "moduleId": "[project]/Documents/GitHub/student_database_Frontend/.next-internal/server/app/students/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/GitHub/student_database_Frontend/app/components/students.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getStudents",
+          "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+        }
+      },
+      "layer": {
+        "app/students/page": "action-browser"
+      },
+      "exportedName": "getStudents",
+      "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+    },
+    "40ce8a093eaa0349b485c0a1270c7b5dd774a1cca2": {
+      "workers": {
+        "app/students/page": {
+          "moduleId": "[project]/Documents/GitHub/student_database_Frontend/.next-internal/server/app/students/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/GitHub/student_database_Frontend/app/components/students.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createStudent",
+          "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+        }
+      },
+      "layer": {
+        "app/students/page": "action-browser"
+      },
+      "exportedName": "createStudent",
+      "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+    },
+    "402f54cc7dc24e575d3a2a7501b28ee5198db49b40": {
+      "workers": {
+        "app/students/page": {
+          "moduleId": "[project]/Documents/GitHub/student_database_Frontend/.next-internal/server/app/students/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/GitHub/student_database_Frontend/app/components/students.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateStudent",
+          "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+        }
+      },
+      "layer": {
+        "app/students/page": "action-browser"
+      },
+      "exportedName": "updateStudent",
+      "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+    },
+    "40a55abba7beb59658fb5f98b60633541c075cb040": {
+      "workers": {
+        "app/students/page": {
+          "moduleId": "[project]/Documents/GitHub/student_database_Frontend/.next-internal/server/app/students/page/actions.js { ACTIONS_MODULE0 => \"[project]/Documents/GitHub/student_database_Frontend/app/components/students.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteStudent",
+          "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+        }
+      },
+      "layer": {
+        "app/students/page": "action-browser"
+      },
+      "exportedName": "deleteStudent",
+      "filename": "Documents/GitHub/student_database_Frontend/app/components/students.ts"
+    }
+  },
+  "edge": {}
+}
