@@ -1,0 +1,20 @@
+th {
+    border: 1px white solid;
+    background-color: #1B3C53;
+}
+
+td {
+    border: 1px white solid;
+    text-align: center;
+    color: black;
+    background-color: #D2C1B6;
+}
+
+.popupTextbox {
+    width: 50vh;
+    height: 4vh;
+    background-color: white;
+    border-radius: 1vh;
+    color: black;
+    padding: 10px;
+}
