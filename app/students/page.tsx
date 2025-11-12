@@ -8,6 +8,17 @@ import { fetchStudent } from '../components/students';
 import '../../public/components.css';
 import { format } from 'date-fns';
 
+interface Student {
+    id: number;
+    Surname: string;
+    FirstName: string;
+    MiddleName: string;
+    Age: number;
+    Birthday: Date;
+    ContactNumber: number;
+    Email: string;
+    Remarks: string;
+}
 
 function StudentsPage() {
     
